@@ -1,0 +1,14 @@
+.heading{
+    background-color: rgba(0, 30, 150, 0.327);
+    border-radius: 75px;
+    font-family: Algerian;
+    font-size: 50px;
+    color: red;
+}
+
+a{
+    font-family: Bodoni MT Black;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    
+}
